@@ -1,0 +1,184 @@
+﻿# UOLinkMap Master Links Database (Facet1[FT=F/T共通,0=Fel専用,1=Tram専用,2..5]	X1	Y1	Facet2	X2	Y2	Bidirectional	Category	Label	ColorHex	Enabled	IsCustom)
+FT	4111	434	FT	5189	638	1	Entrance	Deceit 地上入口 ⇔ B1F		1	0
+FT	5218	588	FT	5307	530	1	Stairs	階段: Deceit B1F ⇔ B2F		1	0
+FT	5348	577	FT	5137	648	1	Stairs	階段: Deceit B2F ⇔ B3F		1	0
+FT	5134	622	FT	5147	584	1	Teleporter	B1F 隠し通路テレポ		1	0
+FT	5320	610	FT	5346	594	1	Teleporter	B2F Brazier小部屋		1	0
+FT	5306	649	FT	5219	763	1	Stairs	① Up階段: B4F ⇔ Deceit B3F		1	0
+FT	5306	750	FT	5189	638	0	Teleporter	② 脱出ゲート: B4F ➔ Deceit B1F		0	0
+0	5266	669	0	5870	1406	1	Teleporter	③ To Champ Fire ➔ 【Fire】B1F東迷宮		1	0
+0	5264	682	0	5600	800	1	Teleporter	④ To Champ Despise ➔ 【Despise】B3F		1	0
+FT	5304	678	FT	7088	1089	1	Teleporter	⑤ To Primeval Lich ➔ 【Abyss】Lich祭壇		1	0
+FT	5788	1336	FT	5703	1318	1	Stairs	Fire階段: B1F(東迷宮) ⇔ B2F(北西迷宮)		1	0
+FT	5690	1424	FT	2922	3405	1	Entrance	Fire入口: B1F ⇔ Serpent's Hold		1	0
+0	5681	1434	0	5145	985	1	Teleporter	To Ancient Wyrm ➔ 【Destard】B3F		1	0
+FT	5414	856	FT	5406	750	1	Stairs	Despise階段: B3F ⇔ Despise B2F		1	0
+FT	5384	656	FT	5512	570	1	Stairs	Despise階段: B2F ⇔ Despise B1F		1	0
+FT	5581	631	FT	1296	1080	1	Entrance	Despise入口: B1F ⇔ Britain北西		1	0
+0	5506	816	0	5190	1600	1	Teleporter	To Terathan Keep ➔ 【Terathan】地下祭壇		1	0
+0	5506	809	0	5145	985	1	Teleporter	To Ancient Wyrm ➔ 【Destard】B3F		1	0
+FT	7042	1089	FT	5456	3124	0	Teleporter	To Lost Lands ➔ 【Lost Lands】砂漠出口		1	0
+FT	1176	2637	FT	5246	1002	1	Entrance	Destard入口 ⇔ B1F		1	0
+FT	5134	906	FT	5142	850	1	Stairs	Destard階段: B1F ⇔ B2F		1	0
+FT	5156	811	FT	5145	985	1	Stairs	Destard階段: B2F ⇔ B3F(古代竜)		1	0
+FT	512	1560	FT	5396	124	1	Entrance	Shame入口 ⇔ B1F		1	0
+FT	5495	21	FT	5514	12	1	Stairs	Shame階段: B1F ⇔ B2F		1	0
+FT	5592	112	FT	5614	144	1	Stairs	Shame階段: B2F ⇔ B3F		1	0
+FT	5610	246	FT	5642	22	1	Stairs	Shame階段: B3F ⇔ B4F(最深部)		1	0
+FT	2499	919	FT	5458	1863	1	Entrance	Covetous入口 ⇔ B1F		1	0
+FT	5420	1855	FT	5614	1996	1	Stairs	Covetous階段: B1F ⇔ B2F(Void Pool)		1	0
+FT	5390	2027	FT	5580	1926	1	Stairs	Covetous階段: B2F ⇔ B3F(礼拝堂)		1	0
+FT	5557	1826	FT	5552	1804	1	Teleporter	Covetous: B3F ⇔ B3F北(アンデッド監獄)		1	0
+FT	5595	1841	FT	5467	1805	1	Stairs	Covetous階段: B3F ⇔ B4F(拷問部屋・Cora)		1	0
+FT	2043	225	FT	5826	630	1	Entrance	Wrong入口 ⇔ B1F		1	0
+FT	5829	591	FT	5693	569	1	Teleporter	Wrongテレポ: B1F ⇔ B2F(西棟牢獄)		1	0
+FT	5690	562	FT	5704	639	1	Teleporter	Wrongテレポ: B2F ⇔ B3F(中央ハブ)		1	0
+FT	5699	662	FT	5867	529	1	Teleporter	Wrongテレポ: B3F ⇔ B1F(北東奥部屋)		1	0
+FT	4721	3822	FT	5907	19	1	Entrance	Hythloth入口 ⇔ B1F		1	0
+FT	5907	98	FT	6056	90	1	Stairs	Hythloth階段: B1F ⇔ B2F		1	0
+FT	6080	82	FT	5923	170	1	Stairs	Hythloth階段: B2F ⇔ B3F		1	0
+FT	5974	167	FT	6040	193	1	Stairs	Hythloth階段: B3F ⇔ B4F(Balron)		1	0
+FT	6025	197	FT	6987	800	1	Teleporter	Hythloth B4F ⇔ Abyssal Infernal 祭壇		1	0
+FT	760	1642	FT	6172	104	1	Entrance	Sanctuary入口 ⇔ 1F本区画		1	0
+FT	6200	148	FT	6340	128	1	Stairs	Sanctuary洞窟 (1): 1F ⇔ B1F地下洞窟		1	0
+FT	3786	1106	FT	6474	188	1	Entrance	Prism of Light入口 ⇔ B1F水晶回廊		1	0
+FT	6510	167	FT	6664	120	1	Teleporter	Prism: B1F ⇔ B2F(Shimmering Effusion)		1	0
+FT	1998	82	FT	5766	256	1	Entrance	Ice入口 ⇔ B1F氷の大洞窟		1	0
+FT	5690	238	FT	5686	330	1	Teleporter	Ice: B1F ⇔ B2F西(Ice Demon Lair)		1	0
+FT	5770	198	FT	5832	348	1	Teleporter	Ice: B1F ⇔ B2F東(Ratman砦)		1	0
+0	6012	3785	0	5570	1300	1	Entrance	Khaldun入口 ⇔ B1F神殿		1	0
+2	651	1302	2	638	1495	1	Entrance	Wisp入口 ⇔ B1F		1	0
+2	696	1546	2	742	1506	1	Teleporter	Wisp: B1F〜B2F ⇔ B3F(中央迷宮)		1	0
+2	795	1485	2	845	1465	1	Teleporter	Wisp: B3F ⇔ B4F(東回廊)		1	0
+2	895	1495	2	945	1495	1	Teleporter	Wisp: B4F ⇔ B5F(最深部ホール)		1	0
+2	548	462	2	448	100	1	Entrance	Sorcerer入口 ⇔ B1F		1	0
+2	382	42	2	340	50	1	Stairs	Sorcerer階段: B1F ⇔ B2F(研究棟)		1	0
+2	248	92	2	250	128	1	Stairs	Sorcerer階段: B2F ⇔ B3F(最深部祭壇)		1	0
+2	668	928	2	113	895	1	Entrance	Ankh北入口 ⇔ Ankh北棟		1	0
+2	42	890	2	18	1277	1	Stairs	Ankh: 北棟 ⇔ 本棟(神殿)		1	0
+2	46	1528	2	365	1435	1	Entrance	Ankh南口 ⇔ Justice地上		1	0
+2	385	1585	2	408	1520	1	Entrance	Kirin通路 ⇔ Serpentine Passage		1	0
+2	542	1524	2	115	1480	1	Entrance	Serpentine Passage ⇔ Ankh本棟		1	0
+2	835	777	2	1859	30	1	Entrance	Exodus入口 ⇔ B1F		1	0
+2	1787	571	2	2188	316	1	Entrance	Rock入口 ⇔ B1F		1	0
+2	2175	335	2	2167	180	1	Stairs	Rock階段: B1F ⇔ B2F(本層)		1	0
+2	1747	1236	2	2115	1044	1	Entrance	Blood入口 ⇔ B1F		1	0
+FT	5429	3118	FT	5326	1618	1	Entrance	Lost Lands砂漠 ⇔ Terathan Keep地下		1	0
+FT	5754	2908	FT	5820	1320	1	Entrance	Lost Lands Papua北 ⇔ Fire B1F		1	0
+FT	5578	3019	FT	6222	335	1	Entrance	Papua南 ⇔ Palace of Paroxysmus		1	0
+FT	5205	2323	FT	5880	152	1	Entrance	Lost Lands氷原 ⇔ Ice B1F		1	0
+FT	4756	3656	5	1094	1207	1	Entrance	Avatar島入口 ⇔ Underworld本層		1	0
+5	1068	955	5	1046	918	1	Teleporter	Underworld T5 ⇔ Navrey's Lair		1	0
+5	1126	1078	5	526	921	1	Entrance	Underworld ⇔ Stygian Abyss		1	0
+5	840	335	5	876	285	1	Stairs	Stygian Abyss ⇔ 北部(Crimson Veins)		1	0
+5	914	83	5	38	213	1	Entrance	Abyss北部 ⇔ Tomb of Kings(王の墓)		1	0
+5	36	235	5	995	3844	1	Entrance	Tomb of Kings ⇔ Ter Mur地上		1	0
+5	843	281	5	440	161	1	Teleporter	Abyss北部 ⇔ Stygian Dragon 祭壇		1	0
+5	363	160	5	93	366	1	Teleporter	Dragon 祭壇 ⇔ Stygian Dragon Lair		1	0
+5	823	756	5	772	928	1	Teleporter	Medusa's Altar ⇔ Medusa's Lair		1	0
+5	512	585	FT	6993	1365	1	Entrance	Stygian Abyss ⇔ Primeval Lich's Lair		1	0
+5	974	422	FT	6987	800	1	Entrance	Stygian Abyss ⇔ Abyssal Infernal's Lair		1	0
+FT	1998	81	FT	5883	243	1	Entrance	Ice Dungeon Entrance		1	0
+FT	5706	146	FT	5704	305	1	Stairs	Ice Dungeon -> Ice Demon Lair		1	0
+FT	5853	237	FT	5834	326	1	Stairs	Ice Dungeon -> Ratman Fort		1	0
+FT	5899	1878	FT	5872	1869	1	Teleporter	Solen Tunnel (1)		1	0
+FT	5852	1849	FT	5773	1869	1	Teleporter	Solen To Center (1)		1	0
+FT	5913	1893	FT	5816	2016	1	Teleporter	Solen Tunnel (2)		1	0
+FT	5877	1891	FT	5808	1906	1	Teleporter	Solen To Center (2)		1	0
+FT	5758	1795	FT	5730	1894	1	Teleporter	Solen Tunnel (3)		1	0
+FT	5659	1898	FT	5749	1895	1	Teleporter	Solen To Center (3)		1	0
+FT	5659	1956	FT	5713	1953	1	Teleporter	Solen Tunnel (4)		1	0
+FT	5700	1930	FT	5784	1932	1	Teleporter	Solen To Center (4)		1	0
+FT	6164	75	FT	6319	23	1	Stairs	Sanctuary Cave (1)		1	0
+FT	6211	109	FT	6354	35	1	Stairs	Sanctuary Cave (2)		1	0
+FT	6277	42	FT	6378	127	1	Stairs	Sanctuary Cave (3)		1	0
+FT	6161	163	FT	6319	106	1	Stairs	Sanctuary Cave (4)		1	0
+FT	6481	96	FT	6475	75	1	Teleporter	Prism -> Snake Room		1	0
+FT	6471	97	FT	6510	87	1	Teleporter	Prism -> Crystal Room		1	0
+FT	6516	88	FT	6537	80	1	Teleporter	Prism -> Demon Cave		1	0
+FT	6568	77	FT	6579	87	1	Teleporter	Prism -> Ice River Cave		1	0
+FT	6557	109	FT	6566	121	1	Teleporter	Prism -> Vortex Cave		1	0
+FT	6581	110	FT	6548	158	1	Teleporter	Prism -> Lattice Cave		1	0
+FT	6578	160	FT	6580	182	1	Teleporter	Prism -> Healer		1	0
+FT	6536	178	FT	6511	180	1	Teleporter	Prism -> Mummy Chamber		1	0
+0	5571	1309	0	5541	1356	1	Teleporter	Khaldun Teleporter 2		1	0
+0	5552	1311	0	5396	1298	1	Teleporter	Khaldun Teleporter 4		1	0
+5	1007	1111	5	1013	1071	1	Teleporter	Underworld T1		1	0
+5	1043	1047	5	1237	1152	0	Teleporter	Underworld T2 -> Arrival		1	0
+5	1162	1120	5	1147	1089	0	Teleporter	Underworld T3 -> Arrival		1	0
+5	1007	1127	5	1011	1143	1	Teleporter	Underworld T4		1	0
+5	1140	951	5	1237	1152	0	Teleporter	Underworld T5 -> Arrival		1	0
+5	1082	974	5	1055	862	1	Stairs	Underworld -> Navrey's Lair		1	0
+5	1078	881	5	1082	974	1	Stairs	Navrey Exit -> Underworld		1	0
+5	1062	1104	5	1115	1027	1	Highway	Underworld Gargoyle Passage 1		1	0
+5	1115	1027	5	1150	1107	1	Highway	Underworld Gargoyle Passage 2		1	0
+5	38	29	5	945	70	1	Teleporter	Tomb of Kings <-> Stygian Abyss		1	0
+5	686	673	5	678	762	1	Highway	Abyss Gargoyle Passage (West)		1	0
+5	776	614	5	830	632	1	Highway	Abyss Gargoyle Passage (Center)		1	0
+5	836	581	5	860	518	1	Highway	Abyss Gargoyle Passage (East)		1	0
+5	843	281	5	363	160	1	Entrance	Abyss <-> Stygian Dragon Altar		1	0
+5	79	353	5	40	366	1	Teleporter	Stygian Dragon Lair 1 (T1)		1	0
+5	78	379	5	53	388	1	Teleporter	Stygian Dragon Lair 1 (T2)		1	0
+5	46	366	5	80	398	1	Teleporter	Stygian Dragon Lair 1 (T3)		1	0
+5	53	345	5	79	339	1	Teleporter	Stygian Dragon Lair 1 (T4)		1	0
+5	80	552	5	41	564	1	Teleporter	Stygian Dragon Lair 2 (T1)		1	0
+5	78	577	5	53	586	1	Teleporter	Stygian Dragon Lair 2 (T2)		1	0
+5	47	564	5	81	596	1	Teleporter	Stygian Dragon Lair 2 (T3)		1	0
+5	53	542	5	79	537	1	Teleporter	Stygian Dragon Lair 2 (T4)		1	0
+5	79	760	5	41	772	1	Teleporter	Stygian Dragon Lair 3 (T1)		1	0
+5	79	785	5	53	794	1	Teleporter	Stygian Dragon Lair 3 (T2)		1	0
+5	47	772	5	81	804	1	Teleporter	Stygian Dragon Lair 3 (T3)		1	0
+5	53	750	5	79	744	1	Teleporter	Stygian Dragon Lair 3 (T4)		1	0
+5	700	3448	5	700	3741	1	Highway	Royal City <-> South Highway		1	0
+5	700	3741	5	1029	3740	1	Highway	South <-> SE Highway		1	0
+5	1029	3740	5	1032	3656	1	Highway	SE Highway Link		1	0
+5	1032	3656	5	1050	3336	1	Highway	East Highway South->Mid		1	0
+5	1050	3336	5	1050	3059	1	Highway	East Highway Mid->North		1	0
+5	1050	3059	5	564	3059	1	Highway	North Highway East->West		1	0
+5	564	3059	5	563	3448	1	Highway	West Highway North->South		1	0
+5	563	3448	5	700	3448	1	Highway	West Highway -> Royal City		1	0
+5	561	3236	5	574	3212	1	Highway	Ter Mur Gargoyle Passage 1		1	0
+5	710	3160	5	722	3117	1	Highway	Ter Mur Gargoyle Passage 2		1	0
+5	970	3134	5	1020	3090	1	Highway	Ter Mur Gargoyle Passage 3		1	0
+5	644	3856	5	593	3846	1	Teleporter	Ter Mur <-> Athenaeum Isle		1	0
+5	1018	2913	5	1049	2937	1	Teleporter	Ter Mur <-> NW Area		1	0
+5	719	1863	5	335	1855	1	EodonHub	Eodon Hub <-> Jukari Tribe		1	0
+5	719	1863	5	386	1675	1	EodonHub	Eodon Hub <-> Kurak Tribe		1	0
+5	719	1863	5	480	1455	1	EodonHub	Eodon Hub <-> Barako Tribe		1	0
+5	719	1863	5	915	1865	1	EodonHub	Eodon Hub <-> Barrab Tribe		1	0
+5	719	1863	5	1012	2095	1	EodonHub	Eodon Hub <-> Urali Tribe		1	0
+5	719	1863	5	560	2135	1	EodonHub	Eodon Hub <-> Sakkhra Tribe		1	0
+2	1516	880	2	1363	1105	1	Teleporter	Reg Nax <-> Reg Volom		1	0
+2	828	778	2	1980	115	1	Entrance	Exodus Dungeon		1	0
+2	1268	1509	2	1254	1511	1	Stairs	Ratman Mines L1 -> L2		1	0
+2	2187	295	2	2188	33	1	Stairs	Rock Dungeon L1 -> L2		1	0
+2	652	1300	2	628	1525	1	Entrance	Wisp Dungeon Entrance		1	0
+2	691	1492	2	715	1492	1	Stairs	Wisp Dungeon L1 -> L2		1	0
+2	894	1452	2	877	1492	1	Stairs	Wisp Dungeon L2 -> L3		1	0
+2	844	1435	2	868	1435	1	Stairs	Wisp Dungeon L3 -> L4		1	0
+2	953	1428	2	954	1443	1	Stairs	Wisp Dungeon L4 -> L5		1	0
+2	370	31	2	286	74	1	Stairs	Sorcerer's Dungeon L1 -> L2		1	0
+2	286	66	2	274	141	1	Stairs	Sorcerer's Dungeon L2 -> L3		1	0
+2	266	129	2	243	27	1	Stairs	Sorcerer's Dungeon L3 -> L4		1	0
+FT	1723	815	FT	5919	2021	1	Entrance	Solen Hive (Britain) Entrance		1	0
+FT	2607	764	FT	5919	1795	1	Entrance	Solen Hive (Minoc) Entrance		1	0
+FT	729	1450	FT	5657	1791	1	Entrance	Solen Hive (Yew) Entrance		1	0
+FT	1689	2786	FT	5657	2017	1	Entrance	Solen Hive (Trinsic) Entrance		1	0
+FT	5578	3019	FT	6233	338	1	Entrance	Palace of Paroxysmus Entrance		1	0
+FT	6233	338	FT	6304	331	1	Stairs	Palace of Paroxysmus Exit		1	0
+FT	6576	175	FT	6581	110	1	Teleporter	Prism Lattice Cave Teleporter		1	0
+FT	769	1645	FT	6159	23	1	Entrance	Sanctuary Entrance		1	0
+FT	5429	3118	FT	5348	1596	1	Entrance	Terathan Keep Entrance		1	0
+FT	5454	3125	FT	5139	1771	1	Entrance	Terathan Keep Underground		1	0
+0	5883	3818	0	5401	1289	1	Entrance	Khaldun Back Door		1	0
+0	5389	1324	0	5620	1341	1	Teleporter	Khaldun Big Teleporter <-> 1b		1	0
+2	1745	1238	2	2115	830	1	Entrance	Blood Dungeon Entrance		1	0
+2	80	1366	2	533	1528	1	Highway	Ankh <-> Serpentine Passage		1	0
+2	13	1520	2	351	1428	1	Highway	Ankh <-> Kirin Passage		1	0
+2	396	1585	2	5	1268	1	Entrance	Ankh Dungeon South Entrance		1	0
+2	666	929	2	13	870	1	Entrance	Ankh Dungeon North Entrance		1	0
+2	549	455	2	428	111	1	Entrance	Sorcerer's Dungeon Entrance		1	0
+2	798	1546	2	752	1486	1	Teleporter	Wisp Teleporter Maze <-> Arrival		1	0
+2	752	1480	2	777	1493	1	Teleporter	Wisp Teleporter Maze <-> Mage Dungeon		1	0
+2	236	115	2	249	71	1	Teleporter	Sorcerer's L2 <-> L4 Teleporter		1	0
+FT	1995	81	FT	5205	2323	1	Entrance	Ice Entrance (Auto)		1	0

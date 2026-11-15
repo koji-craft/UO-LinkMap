@@ -1,0 +1,291 @@
+﻿0	4111	434	5189	638	1	Entrance	Deceit Entrance
+0	5189	638	5137	648	1	Stairs	Deceit L1 -> L1 Exit
+0	5218	588	5307	530	1	Stairs	Deceit L1 -> L2
+0	5348	577	5137	648	1	Stairs	Deceit L2 -> L3
+0	5219	763	5306	649	1	Stairs	Deceit L3 -> L4 (Champ)
+1	4111	434	5189	638	1	Entrance	Deceit Entrance
+1	5218	588	5307	530	1	Stairs	Deceit L1 -> L2
+1	5348	577	5137	648	1	Stairs	Deceit L2 -> L3
+1	5219	763	5306	649	1	Stairs	Deceit L3 -> L4 (Champ)
+0	1298	1082	5590	629	1	Entrance	Despise Entrance
+0	5505	570	5523	673	1	Stairs	Despise L1 -> L2
+0	5388	756	5414	856	1	Stairs	Despise L2 -> L3 (Champ)
+1	1298	1082	5590	629	1	Entrance	Despise Entrance
+1	5505	570	5523	673	1	Stairs	Despise L1 -> L2
+1	5388	756	5414	856	1	Stairs	Despise L2 -> L3 (Champ)
+0	1176	2637	5246	1002	1	Entrance	Destard Entrance
+0	5134	906	5135	989	1	Stairs	Destard L1 -> L2
+0	5156	811	5141	800	1	Stairs	Destard L2 -> L3
+1	1176	2637	5246	1002	1	Entrance	Destard Entrance
+1	5134	906	5135	989	1	Stairs	Destard L1 -> L2
+1	5156	811	5141	800	1	Stairs	Destard L2 -> L3
+0	2499	919	5458	1863	1	Entrance	Covetous Entrance
+0	5467	1805	5614	1996	1	Stairs	Covetous L1 -> L2 (Harpy)
+0	5390	2027	5580	1926	1	Stairs	Covetous L2 -> L3
+0	5396	1958	5580	1926	1	Stairs	Covetous L2 -> L3 (North)
+0	5595	1841	5467	1805	1	Stairs	Covetous L3 -> Dragon's Lair
+0	5557	1826	5552	1804	1	Stairs	Covetous L3 -> Undead Prison
+1	2499	919	5458	1863	1	Entrance	Covetous Entrance
+1	5467	1805	5614	1996	1	Stairs	Covetous L1 -> L2 (Harpy)
+1	5390	2027	5580	1926	1	Stairs	Covetous L2 -> L3
+1	5396	1958	5580	1926	1	Stairs	Covetous L2 -> L3 (North)
+1	5595	1841	5467	1805	1	Stairs	Covetous L3 -> Dragon's Lair
+1	5557	1826	5552	1804	1	Stairs	Covetous L3 -> Undead Prison
+0	512	1560	5399	128	1	Entrance	Shame Entrance
+0	5491	20	5516	11	1	Stairs	Shame L1 -> L2
+0	5605	104	5516	148	1	Stairs	Shame L2 -> L3
+0	5540	169	5875	21	1	Teleporter	Shame L3 -> L4 (Mage Towers)
+0	5508	162	5513	176	1	Stairs	Shame L3 Internal
+1	512	1560	5399	128	1	Entrance	Shame Entrance
+1	5491	20	5516	11	1	Stairs	Shame L1 -> L2
+1	5605	104	5516	148	1	Stairs	Shame L2 -> L3
+1	5540	169	5875	21	1	Teleporter	Shame L3 -> L4 (Mage Towers)
+1	5508	162	5513	176	1	Stairs	Shame L3 Internal
+0	2043	225	5826	630	1	Entrance	Wrong Entrance
+0	5829	591	5693	569	1	Teleporter	Wrong L1 -> L2
+0	5699	662	5867	529	1	Teleporter	Wrong L2 -> Torture Hall
+1	2043	225	5826	630	1	Entrance	Wrong Entrance
+1	5829	591	5693	569	1	Teleporter	Wrong L1 -> L2
+1	5699	662	5867	529	1	Teleporter	Wrong L2 -> Torture Hall
+0	4721	3822	5907	19	1	Entrance	Hythloth Entrance
+0	5907	98	6056	90	1	Stairs	Hythloth L1 -> L2
+0	5923	170	5974	167	1	Stairs	Hythloth L2 -> L3
+0	6040	193	6086	178	1	Stairs	Hythloth L3 -> L4 (Balron)
+0	6025	197	6987	800	1	Teleporter	Hythloth -> Abyssal Infernal
+0	6973	797	6025	197	1	Teleporter	Abyssal Infernal -> Hythloth
+1	4721	3822	5907	19	1	Entrance	Hythloth Entrance
+1	5907	98	6056	90	1	Stairs	Hythloth L1 -> L2
+1	5923	170	5974	167	1	Stairs	Hythloth L2 -> L3
+1	6040	193	6086	178	1	Stairs	Hythloth L3 -> L4 (Balron)
+0	2923	3407	5792	1415	1	Entrance	Fire Dungeon (Serpent's Hold)
+0	5690	1424	2923	3407	1	Entrance	To Serpent's Hold
+0	5788	1336	5703	1318	1	Stairs	Fire Dungeon L1 -> L2
+1	2923	3407	5792	1415	1	Entrance	Fire Dungeon (Serpent's Hold)
+1	5788	1336	5703	1318	1	Stairs	Fire Dungeon L1 -> L2
+0	1998	81	5883	243	1	Entrance	Ice Dungeon Entrance
+0	5706	146	5704	305	1	Stairs	Ice Dungeon -> Ice Demon Lair
+0	5853	237	5834	326	1	Stairs	Ice Dungeon -> Ratman Fort
+1	1998	81	5883	243	1	Entrance	Ice Dungeon Entrance
+1	5706	146	5704	305	1	Stairs	Ice Dungeon -> Ice Demon Lair
+1	5853	237	5834	326	1	Stairs	Ice Dungeon -> Ratman Fort
+0	1014	1434	5139	2018	1	Entrance	Orc Cave Entrance
+0	5134	1949	5273	2043	1	Stairs	Orc Cave L1 -> L2
+0	5364	1289	5332	1382	1	Stairs	Orc Cave L2 -> L3
+0	5304	1988	7134	2424	1	Stairs	Orc Cave -> Garthok Lair
+1	1014	1434	5139	2018	1	Entrance	Orc Cave Entrance
+1	5134	1949	5273	2043	1	Stairs	Orc Cave L1 -> L2
+1	5364	1289	5332	1382	1	Stairs	Orc Cave L2 -> L3
+1	5304	1988	7134	2424	1	Stairs	Orc Cave -> Garthok Lair
+0	5899	1878	5872	1869	1	Teleporter	Solen Tunnel (1)
+0	5852	1849	5773	1869	1	Teleporter	Solen To Center (1)
+0	5913	1893	5816	2016	1	Teleporter	Solen Tunnel (2)
+0	5877	1891	5808	1906	1	Teleporter	Solen To Center (2)
+0	5758	1795	5730	1894	1	Teleporter	Solen Tunnel (3)
+0	5659	1898	5749	1895	1	Teleporter	Solen To Center (3)
+0	5659	1956	5713	1953	1	Teleporter	Solen Tunnel (4)
+0	5700	1930	5784	1932	1	Teleporter	Solen To Center (4)
+1	5899	1878	5872	1869	1	Teleporter	Solen Tunnel (1)
+1	5852	1849	5773	1869	1	Teleporter	Solen To Center (1)
+1	5913	1893	5816	2016	1	Teleporter	Solen Tunnel (2)
+1	5877	1891	5808	1906	1	Teleporter	Solen To Center (2)
+1	5758	1795	5730	1894	1	Teleporter	Solen Tunnel (3)
+1	5659	1898	5749	1895	1	Teleporter	Solen To Center (3)
+1	5659	1956	5713	1953	1	Teleporter	Solen Tunnel (4)
+1	5700	1930	5784	1932	1	Teleporter	Solen To Center (4)
+0	6164	75	6319	23	1	Stairs	Sanctuary Cave (1)
+0	6211	109	6354	35	1	Stairs	Sanctuary Cave (2)
+0	6277	42	6378	127	1	Stairs	Sanctuary Cave (3)
+0	6161	163	6319	106	1	Stairs	Sanctuary Cave (4)
+0	6481	96	6475	75	1	Teleporter	Prism -> Snake Room
+0	6471	97	6510	87	1	Teleporter	Prism -> Crystal Room
+0	6516	88	6537	80	1	Teleporter	Prism -> Demon Cave
+0	6568	77	6579	87	1	Teleporter	Prism -> Ice River Cave
+0	6557	109	6566	121	1	Teleporter	Prism -> Vortex Cave
+0	6581	110	6548	158	1	Teleporter	Prism -> Lattice Cave
+0	6578	160	6580	182	1	Teleporter	Prism -> Healer
+0	6536	178	6511	180	1	Teleporter	Prism -> Mummy Chamber
+1	6164	75	6319	23	1	Stairs	Sanctuary Cave (1)
+1	6211	109	6354	35	1	Stairs	Sanctuary Cave (2)
+1	6277	42	6378	127	1	Stairs	Sanctuary Cave (3)
+1	6161	163	6319	106	1	Stairs	Sanctuary Cave (4)
+1	6481	96	6475	75	1	Teleporter	Prism -> Snake Room
+1	6471	97	6510	87	1	Teleporter	Prism -> Crystal Room
+1	6516	88	6537	80	1	Teleporter	Prism -> Demon Cave
+1	6568	77	6579	87	1	Teleporter	Prism -> Ice River Cave
+1	6557	109	6566	121	1	Teleporter	Prism -> Vortex Cave
+1	6581	110	6548	158	1	Teleporter	Prism -> Lattice Cave
+1	6578	160	6580	182	1	Teleporter	Prism -> Healer
+1	6536	178	6511	180	1	Teleporter	Prism -> Mummy Chamber
+0	5571	1309	5541	1356	1	Teleporter	Khaldun Teleporter 2
+0	5552	1311	5396	1298	1	Teleporter	Khaldun Teleporter 4
+0	5731	3191	4442	1082	1	Teleporter	Recsu <-> Moonglow
+5	1007	1111	1013	1071	1	Teleporter	Underworld T1
+5	1043	1047	1237	1152	0	Teleporter	Underworld T2 -> Arrival
+5	1162	1120	1147	1089	0	Teleporter	Underworld T3 -> Arrival
+5	1007	1127	1011	1143	1	Teleporter	Underworld T4
+5	1140	951	1237	1152	0	Teleporter	Underworld T5 -> Arrival
+5	1082	974	1055	862	1	Stairs	Underworld -> Navrey's Lair
+5	1078	881	1082	974	1	Stairs	Navrey Exit -> Underworld
+5	1126	1078	526	921	1	Stairs	Underworld <-> Stygian Abyss
+5	1062	1104	1115	1027	1	Highway	Underworld Gargoyle Passage 1
+5	1115	1027	1150	1107	1	Highway	Underworld Gargoyle Passage 2
+5	998	3840	35	239	1	Entrance	Ter Mur <-> Tomb of Kings
+5	38	29	945	70	1	Teleporter	Tomb of Kings <-> Stygian Abyss
+5	686	673	678	762	1	Highway	Abyss Gargoyle Passage (West)
+5	776	614	830	632	1	Highway	Abyss Gargoyle Passage (Center)
+5	836	581	860	518	1	Highway	Abyss Gargoyle Passage (East)
+5	843	281	363	160	1	Entrance	Abyss <-> Stygian Dragon Altar
+5	79	353	40	366	1	Teleporter	Stygian Dragon Lair 1 (T1)
+5	78	379	53	388	1	Teleporter	Stygian Dragon Lair 1 (T2)
+5	46	366	80	398	1	Teleporter	Stygian Dragon Lair 1 (T3)
+5	53	345	79	339	1	Teleporter	Stygian Dragon Lair 1 (T4)
+5	80	552	41	564	1	Teleporter	Stygian Dragon Lair 2 (T1)
+5	78	577	53	586	1	Teleporter	Stygian Dragon Lair 2 (T2)
+5	47	564	81	596	1	Teleporter	Stygian Dragon Lair 2 (T3)
+5	53	542	79	537	1	Teleporter	Stygian Dragon Lair 2 (T4)
+5	79	760	41	772	1	Teleporter	Stygian Dragon Lair 3 (T1)
+5	79	785	53	794	1	Teleporter	Stygian Dragon Lair 3 (T2)
+5	47	772	81	804	1	Teleporter	Stygian Dragon Lair 3 (T3)
+5	53	750	79	744	1	Teleporter	Stygian Dragon Lair 3 (T4)
+5	700	3448	700	3741	1	Highway	Royal City <-> South Highway
+5	700	3741	1029	3740	1	Highway	South <-> SE Highway
+5	1029	3740	1032	3656	1	Highway	SE Highway Link
+5	1032	3656	1050	3336	1	Highway	East Highway South->Mid
+5	1050	3336	1050	3059	1	Highway	East Highway Mid->North
+5	1050	3059	564	3059	1	Highway	North Highway East->West
+5	564	3059	563	3448	1	Highway	West Highway North->South
+5	563	3448	700	3448	1	Highway	West Highway -> Royal City
+5	561	3236	574	3212	1	Highway	Ter Mur Gargoyle Passage 1
+5	710	3160	722	3117	1	Highway	Ter Mur Gargoyle Passage 2
+5	970	3134	1020	3090	1	Highway	Ter Mur Gargoyle Passage 3
+5	644	3856	593	3846	1	Teleporter	Ter Mur <-> Athenaeum Isle
+5	1018	2913	1049	2937	1	Teleporter	Ter Mur <-> NW Area
+5	719	1863	335	1855	1	EodonHub	Eodon Hub <-> Jukari Tribe
+5	719	1863	386	1675	1	EodonHub	Eodon Hub <-> Kurak Tribe
+5	719	1863	480	1455	1	EodonHub	Eodon Hub <-> Barako Tribe
+5	719	1863	915	1865	1	EodonHub	Eodon Hub <-> Barrab Tribe
+5	719	1863	1012	2095	1	EodonHub	Eodon Hub <-> Urali Tribe
+5	719	1863	560	2135	1	EodonHub	Eodon Hub <-> Sakkhra Tribe
+2	228	1333	314	1328	1	Stairs	Cave Passage
+2	1516	880	1363	1105	1	Teleporter	Reg Nax <-> Reg Volom
+2	1038	584	1787	65	1	Entrance	Meer Catacombs
+2	828	778	1980	115	1	Entrance	Exodus Dungeon
+2	1268	1509	1254	1511	1	Stairs	Ratman Mines L1 -> L2
+2	639	814	166	745	1	Entrance	Ratmen's Cellar
+2	1788	570	2188	319	1	Entrance	Rock Dungeon Entrance
+2	2187	295	2188	33	1	Stairs	Rock Dungeon L1 -> L2
+2	652	1300	628	1525	1	Entrance	Wisp Dungeon Entrance
+2	691	1492	715	1492	1	Stairs	Wisp Dungeon L1 -> L2
+2	894	1452	877	1492	1	Stairs	Wisp Dungeon L2 -> L3
+2	844	1435	868	1435	1	Stairs	Wisp Dungeon L3 -> L4
+2	953	1428	954	1443	1	Stairs	Wisp Dungeon L4 -> L5
+2	370	31	286	74	1	Stairs	Sorcerer's Dungeon L1 -> L2
+2	286	66	274	141	1	Stairs	Sorcerer's Dungeon L2 -> L3
+2	266	129	243	27	1	Stairs	Sorcerer's Dungeon L3 -> L4
+3	1733	971	329	1973	1	Entrance	Labyrinth Entrance
+3	2066	1373	122	1685	1	Entrance	Bedlam Entrance
+3	84	1673	156	1611	1	Stairs	Bedlam Stairs
+3	2355	1268	381	133	1	Entrance	Doom Entrance
+3	496	50	433	325	1	Teleporter	Doom -> Gauntlet (Cross Lake)
+4	981	201	64	337	1	Entrance	Fan Dancer Dojo Entrance
+4	66	353	62	524	1	Stairs	Fan Dancer Dojo L1 -> L2
+4	105	556	74	691	1	Stairs	Fan Dancer Dojo L2 -> L3
+4	260	783	5	125	1	Entrance	Yomotsu Mines Entrance
+0	1723	815	5919	2021	1	Entrance	Solen Hive (Britain) Entrance
+0	2607	764	5919	1795	1	Entrance	Solen Hive (Minoc) Entrance
+0	729	1450	5657	1791	1	Entrance	Solen Hive (Yew) Entrance
+0	1689	2786	5657	2017	1	Entrance	Solen Hive (Trinsic) Entrance
+0	2544	851	5736	1861	1	Entrance	Solen Secret Hive Entrance
+1	1723	815	5919	2021	1	Entrance	Solen Hive (Britain) Entrance
+1	2607	764	5919	1795	1	Entrance	Solen Hive (Minoc) Entrance
+1	729	1450	5657	1791	1	Entrance	Solen Hive (Yew) Entrance
+1	1689	2786	5657	2017	1	Entrance	Solen Hive (Trinsic) Entrance
+1	2544	851	5736	1861	1	Entrance	Solen Secret Hive Entrance
+0	587	1638	6480	869	1	Entrance	Blighted Grove Entrance
+0	6480	869	6474	870	1	Stairs	Blighted Grove -> Saliva Lair
+0	1710	3006	6309	892	1	Entrance	Painted Caves Entrance
+0	5578	3019	6233	338	1	Entrance	Palace of Paroxysmus Entrance
+0	6233	338	6304	331	1	Stairs	Palace of Paroxysmus Exit
+0	3785	1101	6474	189	1	Entrance	Prism of Light Entrance
+0	6576	175	6581	110	1	Teleporter	Prism Lattice Cave Teleporter
+0	769	1645	6159	23	1	Entrance	Sanctuary Entrance
+1	587	1638	6480	869	1	Entrance	Blighted Grove Entrance
+1	6480	869	6474	870	1	Stairs	Blighted Grove -> Saliva Lair
+1	1710	3006	6309	892	1	Entrance	Painted Caves Entrance
+1	5578	3019	6233	338	1	Entrance	Palace of Paroxysmus Entrance
+1	6233	338	6304	331	1	Stairs	Palace of Paroxysmus Exit
+1	3785	1101	6474	189	1	Entrance	Prism of Light Entrance
+1	6576	175	6581	110	1	Teleporter	Prism Lattice Cave Teleporter
+1	769	1645	6159	23	1	Entrance	Sanctuary Entrance
+0	5429	3118	5348	1596	1	Entrance	Terathan Keep Entrance
+0	5454	3125	5139	1771	1	Entrance	Terathan Keep Underground
+0	6007	3781	5572	1299	1	Entrance	Khaldun Main Entrance
+0	5883	3818	5401	1289	1	Entrance	Khaldun Back Door
+0	5389	1324	5620	1341	1	Teleporter	Khaldun Big Teleporter <-> 1b
+0	1493	1641	6032	1499	1	Entrance	Britain Sewers Entrance
+0	5167	243	5193	149	1	Stairs	Wind Tunnel Entrance <-> Surface
+0	5201	71	5219	18	1	Teleporter	Wind Park <-> Town Teleporter
+0	3608	2469	5140	1810	1	Entrance	Ocllo Library Cellar
+0	5137	1913	5170	1875	1	Stairs	Ocllo Library <-> Rat's Nest
+0	5205	1993	5264	1969	1	Stairs	Ocllo <-> Hidden Crypts
+1	5429	3118	5348	1596	1	Entrance	Terathan Keep Entrance
+1	6007	3781	5572	1299	1	Entrance	Khaldun Main Entrance
+1	5883	3818	5401	1289	1	Entrance	Khaldun Back Door
+1	1493	1641	6032	1499	1	Entrance	Britain Sewers Entrance
+1	5167	243	5193	149	1	Stairs	Wind Tunnel Entrance <-> Surface
+1	5201	71	5219	18	1	Teleporter	Wind Park <-> Town Teleporter
+0	4444	1136	4495	1476	1	Teleporter	Moonglow Teleporter (1) <-> (2)
+0	4450	1115	4664	1134	1	Teleporter	Moonglow Teleporter (3) <-> (4)
+0	4439	1108	4300	969	1	Teleporter	Moonglow Teleporter (5) <-> (6)
+0	4448	1107	4540	897	1	Teleporter	Moonglow Teleporter (7) <-> (8)
+0	1408	3824	1419	3833	1	Teleporter	Jhelom North <-> South Pit Teleporter
+0	2618	980	2723	2138	1	Teleporter	Vesper Mainland <-> Buccaneer's Den
+0	536	993	6986	340	1	Teleporter	Yew <-> Heartwood Entrance
+0	2494	3576	5908	4069	1	Teleporter	Temple Island <-> Lost Lands
+1	4444	1136	4495	1476	1	Teleporter	Moonglow Teleporter (1) <-> (2)
+1	4450	1115	4664	1134	1	Teleporter	Moonglow Teleporter (3) <-> (4)
+1	4439	1108	4300	969	1	Teleporter	Moonglow Teleporter (5) <-> (6)
+1	4448	1107	4540	897	1	Teleporter	Moonglow Teleporter (7) <-> (8)
+1	1408	3824	1419	3833	1	Teleporter	Jhelom North <-> South Pit Teleporter
+1	2618	980	2723	2138	1	Teleporter	Vesper Mainland <-> Buccaneer's Den
+1	536	993	6986	340	1	Teleporter	Yew <-> Heartwood Entrance
+1	2494	3576	5908	4069	1	Teleporter	Temple Island <-> Lost Lands
+0	1649	3317	5148	4063	1	Highway	Trinsic <-> Delucia Passage
+0	1649	3317	5694	3658	1	Highway	Trinsic <-> Lost Lands Passage
+0	6032	1499	6073	3320	1	Highway	Britain Sewers <-> Lost Lands
+0	2405	217	6081	3673	1	Highway	Minoc <-> Lost Lands Passage
+0	2770	890	6143	1430	1	Highway	Vesper <-> Hopper Bog Passage
+0	5875	147	5205	2323	1	Highway	Ice Dungeon <-> Lost Lands
+0	5792	1415	5754	2908	1	Highway	Fire Dungeon <-> Lost Lands
+1	1649	3317	5148	4063	1	Highway	Trinsic <-> Delucia Passage
+1	1649	3317	5694	3658	1	Highway	Trinsic <-> Lost Lands Passage
+1	6032	1499	6073	3320	1	Highway	Britain Sewers <-> Lost Lands
+1	2405	217	6081	3673	1	Highway	Minoc <-> Lost Lands Passage
+1	2770	890	6143	1430	1	Highway	Vesper <-> Hopper Bog Passage
+1	5875	147	5205	2323	1	Highway	Ice Dungeon <-> Lost Lands
+1	5792	1415	5754	2908	1	Highway	Fire Dungeon <-> Lost Lands
+0	5264	682	5506	816	1	Teleporter	Champ Tele: Deceit L3 <-> Despise L3
+0	5266	669	5681	1434	1	Teleporter	Champ Tele: Deceit L3 <-> Fire L1
+0	5506	809	5138	972	1	Teleporter	Champ Tele: Despise <-> Destard Wyrm Lair
+0	5145	971	5353	1539	1	Teleporter	Champ Tele: Destard <-> Terathan Keep
+0	5681	1440	5361	1539	1	Teleporter	Champ Tele: Fire <-> Terathan Keep
+0	6051	2403	5993	2365	1	Teleporter	Lost Lands Khaldun T2 <-> T3
+0	5993	2365	6081	2338	1	Teleporter	Lost Lands Khaldun T3 <-> T4
+0	5728	3417	5501	3970	1	Teleporter	Lost Lands Ice T5 <-> T6
+2	1745	1238	2115	830	1	Entrance	Blood Dungeon Entrance
+2	904	1361	1012	1509	1	Entrance	Cyclops Dungeon Entrance
+2	1030	1154	1349	1512	1	Entrance	Ratman Mines Entrance
+2	812	873	533	1528	1	Entrance	Serpentine Passage Entrance
+2	80	1366	533	1528	1	Highway	Ankh <-> Serpentine Passage
+2	13	1520	351	1428	1	Highway	Ankh <-> Kirin Passage
+2	396	1585	5	1268	1	Entrance	Ankh Dungeon South Entrance
+2	666	929	13	870	1	Entrance	Ankh Dungeon North Entrance
+2	940	504	86	748	1	Entrance	Volcanic Lair Entrance
+2	549	455	428	111	1	Entrance	Sorcerer's Dungeon Entrance
+2	1457	1327	1478	1496	1	Entrance	Mushroom Cave <-> Twisted Weald
+2	1786	995	1423	908	1	Entrance	Spider Cave <-> Reg Nax
+2	798	1546	752	1486	1	Teleporter	Wisp Teleporter Maze <-> Arrival
+2	752	1480	777	1493	1	Teleporter	Wisp Teleporter Maze <-> Mage Dungeon
+2	236	115	249	71	1	Teleporter	Sorcerer's L2 <-> L4 Teleporter
+3	1723	1160	1774	972	1	Teleporter	Malas <-> Grimswind Ruins (Labyrinth)
+3	409	254	433	325	1	Teleporter	Doom Ferry (Cross the Lake)
