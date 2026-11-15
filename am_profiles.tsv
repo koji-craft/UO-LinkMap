@@ -1,0 +1,4 @@
+# LinkMap AM Connection Profiles (ProfileName	ServerHost	ServerPort	RoomPassword	DungeonTiltAngle	TiltMap45	BlockViewZoom	Map2DZoom	PlayerName)
+TestRoom	127.0.0.1	2000	TestRoom	28	0	1.800	1.800	Player
+Ally	am.intravps.cz	2000	Ally	28	0	1.800	1.800	Player
+MainRoom	am.intravps.cz	2000	Buta	28	0	1.800	1.800	Player
