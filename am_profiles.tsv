@@ -1,4 +1,11 @@
-# LinkMap AM Connection Profiles (ProfileName	ServerHost	ServerPort	RoomPassword	DungeonTiltAngle	TiltMap45	BlockViewZoom	Map2DZoom	PlayerName)
-TestRoom	127.0.0.1	2000	TestRoom	28	0	1.800	1.800	Player
-Ally	am.intravps.cz	2000	Ally	28	0	1.800	1.800	Player
-MainRoom	am.intravps.cz	2000	Buta	28	0	1.800	1.800	Player
+# UOLinkMap AM Connection Profiles (ProfileName	ServerHost	ServerPort	RoomPassword	DungeonTiltAngle	TiltMap45	BlockViewZoom	Map2DZoom	PlayerName	PlayerColorHex	BookmarkColorHex	EnableSound)
+デモ用(loopback/オフライン): フェルッカ地上	127.0.0.1	2000	TestRoom	28	0	1.800	1.800	Player	#3CC3FF	#3CC3FF	1
+デモ用(loopback/オフライン): デシートB1〜B4F	127.0.0.1	2000	TestDeceit	28	0	1.800	1.800	Player	#FF6EFF	#C878FF	1
+Asuka 公開広場 (飛鳥)	am.intravps.cz	2000	asuka_pub	28	0	1.800	1.800	Player	#3CC3FF	#3CE888	1
+Atlantic 公開広場 (アトラン)	am.intravps.cz	2000	atlantic_pub	28	0	1.800	1.800	Player	#3CC3FF	#FFD746	1
+Hokuto 公開広場 (北斗)	am.intravps.cz	2000	hokuto_pub	28	0	1.800	1.800	Player	#3CC3FF	#FFE65F	1
+Izumo 公開広場 (出雲)	am.intravps.cz	2000	izumo_pub	28	0	1.800	1.800	Player	#3CC3FF	#48E0D0	1
+Mizuho 公開広場 (瑞穂)	am.intravps.cz	2000	mizuho_pub	28	0	1.800	1.800	Player	#3CC3FF	#5AA5FF	1
+Sakura 公開広場 (桜)	am.intravps.cz	2000	sakura_pub	28	0	1.800	1.800	Player	#3CC3FF	#FF9BC3	1
+Wakoku 公開広場 (倭国)	am.intravps.cz	2000	wakoku_pub	28	0	1.800	1.800	Player	#3CC3FF	#FF5F69	1
+Yamato 公開広場 (大和)	am.intravps.cz	2000	yamato_pub	28	0	1.800	1.800	Player	#3CC3FF	#FF9838	1
