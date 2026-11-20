@@ -1,6 +1,6 @@
 # UOLinkMap AM Connection Profiles (ProfileName	ServerHost	ServerPort	RoomPassword	DungeonTiltAngle	TiltMap45	BlockViewZoom	Map2DZoom	PlayerName	PlayerColorHex	BookmarkColorHex	EnableSound)
-デモ用(loopback/オフライン): フェルッカ地上	127.0.0.1	2000	TestRoom	28	0	1.800	1.800	Player	#3CC3FF	#3CC3FF	1
-デモ用(loopback/オフライン): デシートB1〜B4F	127.0.0.1	2000	TestDeceit	28	0	1.800	1.800	Player	#FF6EFF	#C878FF	1
+🔒 一人用お試し（外部接続なし）: フェルッカ地上	127.0.0.1	2000	TestRoom	28	0	1.800	1.800	Player	#3CC3FF	#3CC3FF	1
+🔒 一人用お試し（外部接続なし）: デシートB1〜B4F	127.0.0.1	2000	TestDeceit	28	0	1.800	1.800	Player	#FF6EFF	#C878FF	1
 Asuka 公開広場 (飛鳥)	am.intravps.cz	2000	asuka_pub	28	0	1.800	1.800	Player	#3CC3FF	#3CE888	1
 Atlantic 公開広場 (アトラン)	am.intravps.cz	2000	atlantic_pub	28	0	1.800	1.800	Player	#3CC3FF	#FFD746	1
 Hokuto 公開広場 (北斗)	am.intravps.cz	2000	hokuto_pub	28	0	1.800	1.800	Player	#3CC3FF	#FFE65F	1
